@@ -1,0 +1,19 @@
+jupyterlab
+
+# Variables de Entorno
+python-dotenv
+
+# Solicitudes HTTP (descargar PDFs)
+requests
+pypdf
+
+pinecone-client
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+
+# modelos de Hugging Face
+sentence-transformers
+faiss-cpu
